@@ -29,4 +29,4 @@ java App
 
 ```
 
-If this readme unclear (apologies if so), full project demonstration is available in the MarketDataMonitor.ipynb file in the Main Branch
+If this readme is unclear (apologies if so), full project demonstration is available in the MarketDataMonitor.ipynb file in the Main Branch, which can be downloaded, and run it using [google colab](https://colab.research.google.com/)
